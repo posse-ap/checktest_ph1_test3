@@ -41,6 +41,38 @@ body {
 /*==========================================================================
 # header
 ========================================================================== */
+.header {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+}
+.header__logoarea {
+  width: 100px;
+  height: 100%;
+  margin-left: 240px;
+}
+.header__logo {
+  width: 100%;
+  height: 100%;
+}
+.header__navarea {
+  width: 250px;
+  height: 100%;
+  margin-right: 240px;
+}
+.header__navarea ul {
+  width: 250px;
+  height: 100%;
+  display: flex;;
+}
+.header__navarea ul li {
+  display: block;
+  height: 100%;
+  margin-right: 45px;
+  padding-top: 30px;
+}
 
 
 /*==========================================================================
