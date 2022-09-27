@@ -45,3 +45,13 @@ c3.addEventListener("click", () =>{
     p1.style.display = "none";
     p2.style.display = "none";
 });
+
+
+
+
+//コンタクト部分の JavaScript記述
+//入力内容の要素取得
+let content = getElementById(title); //記述ミス
+//送信ボタン
+const btn = getElementById("btn1");
+
