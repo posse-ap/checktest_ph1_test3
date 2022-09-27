@@ -181,6 +181,29 @@ text-align: center;
   height: 200px;
   border-radius: 10px 10px 0px 0px;
 }
+.news__content--date {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 150%;
+  letter-spacing: 0.08em;
+  color: #A5A5A5;
+  margin-top: 4%;
+  margin-left: 10%;
+}
+.news__content--sent {
+  font-family: 'Noto Sans JP';
+  width: 80%;
+  margin-top: 4%;
+  margin-left: 10%;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  letter-spacing: 0.08em;
+  color: #333333;
+}
 
 /*==========================================================================
 # contact
