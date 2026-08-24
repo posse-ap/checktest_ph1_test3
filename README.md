@@ -6,7 +6,7 @@
 ## テストの進め方
 
 以下のFigmaを開き、デザインと仕様書に沿って `index.html` と `script.js` を完成させてください
-https://www.figma.com/design/z5b14O1VMKaVijJokzyUMq/?node-id=2-2
+https://www.figma.com/design/pamOd8ehnMa1bfpVjw1Yvw/?node-id=0-1
 
 左がデザイン（PC）、右が仕様書です。指定はすべて仕様書に書いてあります。
 

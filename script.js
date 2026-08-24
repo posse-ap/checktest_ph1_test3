@@ -2,7 +2,7 @@
 //
 // ※ ページは必ず VSCode の Live Server で開くこと。
 //    ファイルを直接開くと data.json を読み込めません。
-// ※ 仕様書はFigmaにあります： https://www.figma.com/design/z5b14O1VMKaVijJokzyUMq/
+// ※ 仕様書はFigmaにあります： https://www.figma.com/design/pamOd8ehnMa1bfpVjw1Yvw/?node-id=0-1
 //
 // 使える目印
 //   #cafe-list      … カード（<li>）を入れる場所
